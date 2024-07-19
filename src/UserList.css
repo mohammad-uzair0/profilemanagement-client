@@ -1,0 +1,26 @@
+.user-list-container {
+    margin-top: 20px;
+}
+
+.card {
+    padding: 20px;
+}
+
+.card-title {
+    margin-bottom: 20px;
+}
+
+.list-group-item {
+    cursor: pointer;
+}
+
+.list-group-item:hover {
+    background-color: #f0f0f0;
+}
+
+.user-list-container .btn-danger {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+  }  
