@@ -5,6 +5,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Prerequisites
 
 Make sure you have Node.js and npm installed on your machine. You can download them from [Node.js official website](https://nodejs.org/).
+Open your terminal or command prompt and type 
+node -v
+npm -v
+
+## Using npx
+
+'npx' comes bundled with npm (version 5.2.0 and higher).
+To verify npx installation, run: npx -v
 
 ## Installing Dependencies
 
